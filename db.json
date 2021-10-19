@@ -1,0 +1,218 @@
+{
+    "maindata": [
+        {
+            "id": "1",
+            "Asset_Name": "Tiger Nixon",
+            "Qty_Held": "System Architect",
+            "Avg_Purchase_Price": "3250",
+            "Amount_Invested": "5485452",
+            "CMP": "Edinburgh",
+            "Current_Value": "5421",
+            "Gain_Loss_Abs": "5421",
+            "Gain_Loss": "5421",
+            "Allocation_on_CMP": "454",
+            "Advised_Allocation": "",
+            "Add_Reduce": "",
+            "Comments": "",
+            "Cr": [
+                { 
+                    "id": "1",
+                    "uid":"1",
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                },
+                { 
+                    "id": "2",
+                    "uid":"1",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                 }
+            ]
+        },
+        
+        {
+            "id": "2",
+            "Asset_Name": "Tiger Nixon",
+            "Qty_Held": "System Architect",
+            "Avg_Purchase_Price": "3250",
+            "Amount_Invested": "5485452",
+            "CMP": "Edinburgh",
+            "Current_Value": "5421",
+            "Gain_Loss_Abs": "5421",
+            "Gain_Loss": "5421",
+            "Allocation_on_CMP": "454",
+            "Advised_Allocation": "",
+            "Add_Reduce": "",
+            "Comments": "",
+            "Cr": [
+                { 
+                    "id": "1",
+                    "uid":"2",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                },
+                { 
+                    "id": "2",
+                    "uid":"2",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                 }
+            ]
+        },
+        {
+            "id": "3",
+            "Asset_Name": "Tiger Nixon",
+            "Qty_Held": "System Architect",
+            "Avg_Purchase_Price": "3250",
+            "Amount_Invested": "5485452",
+            "CMP": "Edinburgh",
+            "Current_Value": "5421",
+            "Gain_Loss_Abs": "5421",
+            "Gain_Loss": "5421",
+            "Allocation_on_CMP": "454",
+            "Advised_Allocation": "",
+            "Add_Reduce": "",
+            "Comments": "",
+            "Cr": [
+                { 
+                    "id": "1",
+                    "uid":"3",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                },
+                { 
+                    "id": "2",
+                    "uid":"3",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                 }
+            ]
+        },
+        {
+            "id": "4",
+            "Asset_Name": "Tiger Nixon",
+            "Qty_Held": "System Architect",
+            "Avg_Purchase_Price": "3250",
+            "Amount_Invested": "5485452",
+            "CMP": "Edinburgh",
+            "Current_Value": "5421",
+            "Gain_Loss_Abs": "5421",
+            "Gain_Loss": "5421",
+            "Allocation_on_CMP": "454",
+            "Advised_Allocation": "",
+            "Add_Reduce": "",
+            "Comments": "",
+            "Cr": [
+                { 
+                    "id": "1",
+                    "uid":"4",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                },
+                { 
+                    "id": "2",
+                    "uid":"4",
+
+                    "Asset_Name": "Tiger Nixon",
+                    "Qty_Held": "System Architect",
+                    "Avg_Purchase_Price": "3250",
+                    "Amount_Invested": "5485452",
+                    "CMP": "Edinburgh",
+                    "Current_Value": "5421",
+                    "Gain_Loss_Abs": "5421",
+                    "Gain_Loss": "5421",
+                    "Allocation_on_CMP": "454",
+                    "Advised_Allocation": "",
+                    "Add_Reduce": "",
+                    "Comments": ""
+                 }
+            ]
+        }
+
+
+
+
+
+    ],
+
+
+    "childrow": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ]
+  }
